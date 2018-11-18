@@ -52,7 +52,7 @@
 ### Software Projects
 
 - MinCaml compilers: written in OCaml and [Haskell](https://github.com/nineties/Choco)
-- Research at Univ.: GRAPE-DR compiler, Ruby to C AOT compiler
+- GRAPE-DR compiler, Ruby to C AOT compiler (Research at the univ.)
 - [Amber](https://github.com/nineties/amber)
   - [Creating a language using only assembly language](https://speakerdeck.com/nineties/creating-a-language-using-only-assembly-language)
   - [アセンブリ言語のみで言語処理系を作った話](https://speakerdeck.com/nineties/bootstrap)
