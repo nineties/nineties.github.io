@@ -30,7 +30,7 @@
 ### Lectures & Presentations
 
 - [The New Context Conference](http://ncc.garage.co.jp/ja/)
-  - 2016 Tokyo (presentation), 2017 Tokyo (presentation), 2018 Tokyo (panel session)
+  - 2016 Tokyo (presentation & panel session), 2017 Tokyo (presentation & panel session), 2018 Tokyo (panel session)
 - [Raspberry Pi Fields 2018](https://www.raspberrypi.org/raspberry-fields/)
   - Presentation: [Accelerating deep learning inference on Raspberry Pi](https://www.youtube.com/watch?v=10RyDvTj4hc)
 - Deep Learning Acceleration勉強会
