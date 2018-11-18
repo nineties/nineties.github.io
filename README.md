@@ -62,7 +62,7 @@
 ### Hardware Projects
 
 - Actbulb (Past project at Idein. Not for sale)
-  - Smart lightbulb with a visual sensing
+  - Smart lightbulb with vision sensors
   - Circuit design, PCB design, 3D CAD
 
 ![](images/actbulb.png)
