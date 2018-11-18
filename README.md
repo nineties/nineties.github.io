@@ -23,7 +23,7 @@
 - 2010- Graduate School of Information Science and Technology, University of Tokyo. Dept. of Compute Science. (dropped out in 2015)
   - My major was a theory of optimizing compiler for parallel computing
 - 2015.4 Founded Idein Inc.
-- 2016.3- Technical Advisor of DG Lab
+- 2016.3- Be technical advisor of DG Lab
 - 2018.9- Selected as an Arm Innovator
 
 ## Works & Activities
