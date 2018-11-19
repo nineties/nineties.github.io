@@ -23,7 +23,7 @@
 - 2010- Graduate School of Information Science and Technology, University of Tokyo. Dept. of Compute Science. (dropped out in 2015)
   - My major was a theory of optimizing compiler for parallel computing
 - 2015.4 Founded Idein Inc.
-- 2016.3- Be technical advisor of DG Lab
+- 2016.3- Be a technical advisor of DG Lab
 - 2018.9- Selected as an Arm Innovator
 
 ## Works & Activities
@@ -34,6 +34,7 @@
 - [Raspberry Pi Fields 2018](https://www.raspberrypi.org/raspberry-fields/)
   - Presentation: [Accelerating deep learning inference on Raspberry Pi](https://www.youtube.com/watch?v=10RyDvTj4hc)
 - Deep Learning Acceleration勉強会
+  - Organizer
   - Slide (Japanese): [Convolutionの数理とアルゴリズム](https://speakerdeck.com/nineties/convolutionfalseshu-li-toarugorizumu)
 - Deep Learning Lab/推論ナイト
   - [Presentation (Japanese)](https://youtu.be/-t_9Qpd0gn8?t=8074)
