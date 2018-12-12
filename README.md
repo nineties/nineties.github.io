@@ -14,7 +14,6 @@
 - [Github](https://github.com/nineties)
 - [Speakerdeck](https://speakerdeck.com/nineties/)
 - [Qiita](https://qiita.com/9_ties)
-- [Newspicks](https://newspicks.com/user/1252776)
 
 ## Career
 
