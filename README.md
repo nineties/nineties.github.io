@@ -76,3 +76,10 @@
   - Slide (Japanese): [Ideinの紹介](https://speakerdeck.com/nineties/ideinfalseshao-jie-at-dllab-tui-lun-naito)
 - Deloitte Tohmatsu Innovation Summit
   - Panel session about "Augmented intelligence".
+
+### Interviews
+
+- [Forbes Japan 2019年1月号](https://forbesjapan.com/magazines/detail/87)
+  - AI IoT活用に価格破壊！「組み込みディープラーニング」世界へ
+- [安価な組み込みAIを世界へ！ Ideinが「高火力」を選んだ理由](http://ascii.jp/elem/000/001/726/1726225/)
+- [毎日新聞 2018年8月27日東京朝刊](https://mainichi.jp/articles/20180827/ddm/008/020/036000c)
