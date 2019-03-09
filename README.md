@@ -76,6 +76,8 @@
   - Slide (Japanese): [Ideinの紹介](https://speakerdeck.com/nineties/ideinfalseshao-jie-at-dllab-tui-lun-naito)
 - Deloitte Tohmatsu Innovation Summit
   - Panel session about "Augmented intelligence".
+- [fpgax #11 ＋ TFUG ハード部：DNN専用ハードについて語る会](https://fpgax.connpass.com/event/115446/)
+  - Slide (Japanese): [Deep Learning推論を高速化するソフトウェア技術](https://speakerdeck.com/nineties/deep-learningtui-lun-wogao-su-hua-surusohutoueaji-shu)
 
 ### Interviews
 
