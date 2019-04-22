@@ -78,6 +78,9 @@
   - Panel session about "Augmented intelligence".
 - [fpgax #11 ＋ TFUG ハード部：DNN専用ハードについて語る会](https://fpgax.connpass.com/event/115446/)
   - Slide (Japanese): [Deep Learning推論を高速化するソフトウェア技術](https://speakerdeck.com/nineties/deep-learningtui-lun-wogao-su-hua-surusohutoueaji-shu)
+- [AI/SUM 2019](https://aisum.jp/)
+    - Panel session: How Do AI Startups Solve Societal Issues in Japan
+    - Presentation: Edge Computing: The key Technology for Social Implementation of AI
 
 ### Interviews
 
