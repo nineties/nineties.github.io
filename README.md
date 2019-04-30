@@ -4,7 +4,7 @@
 
 - CEO&Founder of [Idein Inc.](https://idein.jp)
 
-![](https://prtimes.jp/i/26271/3/resize/d26271-3-804117-0.jpg)
+[![](https://prtimes.jp/i/26271/3/resize/d26271-3-804117-0.jpg)](https://idein.jp)
 
 - Technical Advisor of [DG Lab](https://www.dglab.com/)
 - [Arm Innovator](https://community.arm.com/innovation/b/blog/posts/new-arm-innovators-iot-experts-physicists-robotic-inventors)
