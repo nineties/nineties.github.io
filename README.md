@@ -67,23 +67,23 @@
 
 ### Lectures & Presentations
 
-- [The New Context Conference](http://ncc.garage.co.jp/ja/)
-  - 2016 Tokyo (presentation & panel session), 2017 Tokyo (presentation & panel session), 2018 Tokyo (panel session)
-- [Raspberry Pi Fields 2018](https://www.raspberrypi.org/raspberry-fields/)
-  - Presentation: [Accelerating deep learning inference on Raspberry Pi](https://www.youtube.com/watch?v=10RyDvTj4hc)
-- Deep Learning Acceleration勉強会
-  - Organizer
-  - Slide (Japanese): [Convolutionの数理とアルゴリズム](https://speakerdeck.com/nineties/convolutionfalseshu-li-toarugorizumu)
-- Deep Learning Lab/推論ナイト
-  - [Presentation (Japanese)](https://youtu.be/-t_9Qpd0gn8?t=8074)
-  - Slide (Japanese): [Ideinの紹介](https://speakerdeck.com/nineties/ideinfalseshao-jie-at-dllab-tui-lun-naito)
-- Deloitte Tohmatsu Innovation Summit
-  - Panel session about "Augmented intelligence".
-- [fpgax #11 ＋ TFUG ハード部：DNN専用ハードについて語る会](https://fpgax.connpass.com/event/115446/)
-  - Slide (Japanese): [Deep Learning推論を高速化するソフトウェア技術](https://speakerdeck.com/nineties/deep-learningtui-lun-wogao-su-hua-surusohutoueaji-shu)
 - [AI/SUM 2019](https://aisum.jp/)
     - Panel session: How Do AI Startups Solve Societal Issues in Japan
     - Presentation: Edge Computing: The key Technology for Social Implementation of AI
+- [fpgax #11 ＋ TFUG ハード部：DNN専用ハードについて語る会](https://fpgax.connpass.com/event/115446/)
+  - Slide (Japanese): [Deep Learning推論を高速化するソフトウェア技術](https://speakerdeck.com/nineties/deep-learningtui-lun-wogao-su-hua-surusohutoueaji-shu)
+- Deloitte Tohmatsu Innovation Summit
+  - Panel session about "Augmented intelligence".
+- Deep Learning Lab/推論ナイト
+  - [Presentation (Japanese)](https://youtu.be/-t_9Qpd0gn8?t=8074)
+  - Slide (Japanese): [Ideinの紹介](https://speakerdeck.com/nineties/ideinfalseshao-jie-at-dllab-tui-lun-naito)
+- Deep Learning Acceleration勉強会
+  - Organizer
+  - Slide (Japanese): [Convolutionの数理とアルゴリズム](https://speakerdeck.com/nineties/convolutionfalseshu-li-toarugorizumu)
+- [Raspberry Pi Fields 2018](https://www.raspberrypi.org/raspberry-fields/)
+  - Presentation: [Accelerating deep learning inference on Raspberry Pi](https://www.youtube.com/watch?v=10RyDvTj4hc)
+- [The New Context Conference](http://ncc.garage.co.jp/ja/)
+  - 2016 Tokyo (presentation & panel session), 2017 Tokyo (presentation & panel session), 2018 Tokyo (panel session)
 
 ### Interviews
 
