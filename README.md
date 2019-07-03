@@ -67,6 +67,8 @@
 
 ### Lectures & Presentations
 
+- [SSII2019](https://confit.atlas.jp/guide/event/ssii2019/static/organized)
+    - オーガナイズドセッション3 「深層学習の高速化」オーガナイザ
 - [AI/SUM 2019](https://aisum.jp/)
     - Panel session: How Do AI Startups Solve Societal Issues in Japan
     - Presentation: Edge Computing: The key Technology for Social Implementation of AI
@@ -87,6 +89,9 @@
 
 ### Interviews
 
+- [異能エンジニアの肖像](https://tech.nikkeibp.co.jp/atcl/nxt/column/18/00240/)
+  - [ユーザーはアプリを選ぶだけ、1日100円程度で使えるエッジAIを提供](https://tech.nikkeibp.co.jp/atcl/nxt/column/18/00240/052800032/)
+  - [伝説」の勉強会、きっかけはアインシュタインも在籍していた米研究所](https://tech.nikkeibp.co.jp/atcl/nxt/column/18/00240/052900033/)
 - [Forbes Japan 2019年1月号](https://forbesjapan.com/magazines/detail/87)
   - AI IoT活用に価格破壊！「組み込みディープラーニング」世界へ
 - [安価な組み込みAIを世界へ！ Ideinが「高火力」を選んだ理由](http://ascii.jp/elem/000/001/726/1726225/)
