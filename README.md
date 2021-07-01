@@ -56,13 +56,14 @@
 
 ![](images/drone.png)
 
-### Math Lectures
+### Math Lectures or Materials
 (Only in japanese)
 
 - 圏論勉強会: [資料](http://nineties.github.io/category-seminar/) [動画](https://www.youtube.com/playlist?list=PLzJWjr7AvxH37O6GPqx20NpF0HaSrndVc)
 - プログラマの為の数学勉強会: [資料](http://nineties.github.io/math-seminar/) [動画](https://www.youtube.com/playlist?list=PLzJWjr7AvxH0YYpi2uAH_QHLaSJQ5fZrR)
 - パターン認識と機械学習勉強会: [資料](http://nineties.github.io/prml-seminar/) [動画](https://www.youtube.com/playlist?list=PLZUl2daVfjB2M2nzTBXWx5z_IA9u3Ob6x)
 - 機械学習に基づく自然言語処理勉強会: [資料](http://nineties.github.io/NLP-seminar/) [動画](https://www.youtube.com/playlist?list=PLl1oX4Yc8CJail3kBuQZJye6rKpS7hoHw)
+- 多様体上での最適化問題: https://nineties.github.io/manifold-optimization
 
 ### Lectures & Presentations
 
