@@ -27,6 +27,16 @@
 - 2016.3- Be a technical advisor of DG Lab
 - 2018.9- Selected as an Arm Innovator
 
+## Interviews
+
+- [異能エンジニアの肖像](https://tech.nikkeibp.co.jp/atcl/nxt/column/18/00240/)
+  - [ユーザーはアプリを選ぶだけ、1日100円程度で使えるエッジAIを提供](https://tech.nikkeibp.co.jp/atcl/nxt/column/18/00240/052800032/)
+  - [「伝説」の勉強会、きっかけはアインシュタインも在籍していた米研究所](https://tech.nikkeibp.co.jp/atcl/nxt/column/18/00240/052900033/)
+- [Forbes Japan 2019年1月号](https://forbesjapan.com/magazines/detail/87)
+  - AI IoT活用に価格破壊！「組み込みディープラーニング」世界へ
+- [安価な組み込みAIを世界へ！ Ideinが「高火力」を選んだ理由](http://ascii.jp/elem/000/001/726/1726225/)
+- [毎日新聞 2018年8月27日東京朝刊](https://mainichi.jp/articles/20180827/ddm/008/020/036000c)
+
 ## Works & Activities
 ### Software Projects
 
@@ -86,13 +96,3 @@
   - Presentation: [Accelerating deep learning inference on Raspberry Pi](https://www.youtube.com/watch?v=10RyDvTj4hc)
 - [The New Context Conference](http://ncc.garage.co.jp/ja/)
   - 2016 Tokyo (presentation & panel session), 2017 Tokyo (presentation & panel session), 2018 Tokyo (panel session)
-
-### Interviews
-
-- [異能エンジニアの肖像](https://tech.nikkeibp.co.jp/atcl/nxt/column/18/00240/)
-  - [ユーザーはアプリを選ぶだけ、1日100円程度で使えるエッジAIを提供](https://tech.nikkeibp.co.jp/atcl/nxt/column/18/00240/052800032/)
-  - [「伝説」の勉強会、きっかけはアインシュタインも在籍していた米研究所](https://tech.nikkeibp.co.jp/atcl/nxt/column/18/00240/052900033/)
-- [Forbes Japan 2019年1月号](https://forbesjapan.com/magazines/detail/87)
-  - AI IoT活用に価格破壊！「組み込みディープラーニング」世界へ
-- [安価な組み込みAIを世界へ！ Ideinが「高火力」を選んだ理由](http://ascii.jp/elem/000/001/726/1726225/)
-- [毎日新聞 2018年8月27日東京朝刊](https://mainichi.jp/articles/20180827/ddm/008/020/036000c)
