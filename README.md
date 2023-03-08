@@ -29,6 +29,7 @@
 
 ## Interviews
 
+- [アマテラス CEOインタビュー](https://amater.as/article/interview/idein/)
 - [異能エンジニアの肖像](https://tech.nikkeibp.co.jp/atcl/nxt/column/18/00240/)
   - [ユーザーはアプリを選ぶだけ、1日100円程度で使えるエッジAIを提供](https://tech.nikkeibp.co.jp/atcl/nxt/column/18/00240/052800032/)
   - [「伝説」の勉強会、きっかけはアインシュタインも在籍していた米研究所](https://tech.nikkeibp.co.jp/atcl/nxt/column/18/00240/052900033/)
