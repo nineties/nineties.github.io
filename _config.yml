@@ -2,7 +2,8 @@ theme: jekyll-theme-minimal
 repository: nineties/aboutme
 
 title: About Me
-logo: https://community.arm.com/resized-image/__size/320x240/__key/communityserver-blogs-components-weblogfiles/00-00-00-37-93/Koichi.jpg
+logo: https://pbs.twimg.com/profile_images/797490964/PICT0031__1__Cartoonizer_1_400x400.jpg
+
 
 github:
     - project_tagline: test
