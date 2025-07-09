@@ -6,7 +6,7 @@
 
 [![](https://prtimes.jp/i/26271/3/resize/d26271-3-804117-0.jpg)](https://idein.jp)
 
-- [Arm Innovator](https://community.arm.com/innovation/b/blog/posts/new-arm-innovators-iot-experts-physicists-robotic-inventors)
+- Guest Professor at the Center for Co-Creation Strategy, Tohoku University.
 
 ## Accounts
 
@@ -75,6 +75,7 @@
 - パターン認識と機械学習勉強会: [資料](http://nineties.github.io/prml-seminar/) [動画](https://www.youtube.com/playlist?list=PLZUl2daVfjB2M2nzTBXWx5z_IA9u3Ob6x)
 - 機械学習に基づく自然言語処理勉強会: [資料](http://nineties.github.io/NLP-seminar/) [動画](https://www.youtube.com/playlist?list=PLl1oX4Yc8CJail3kBuQZJye6rKpS7hoHw)
 - 多様体上での最適化問題: [資料](https://nineties.github.io/manifold-optimization)
+- トポス理論: [資料](https://nineties.github.io/topos-theory/overview/)
 
 ### Lectures & Presentations
 
