@@ -37,6 +37,10 @@
   - AI IoT活用に価格破壊！「組み込みディープラーニング」世界へ
 - [安価な組み込みAIを世界へ！ Ideinが「高火力」を選んだ理由](http://ascii.jp/elem/000/001/726/1726225/)
 - [毎日新聞 2018年8月27日東京朝刊](https://mainichi.jp/articles/20180827/ddm/008/020/036000c)
+- [スタクラ CEOインタビュー](https://startupclass.co.jp/article/2021/05/18/idein/)
+- [週刊BCN+](https://www.weeklybcn.com/journal/era/detail/20220519_190937.html)
+- [PR TIMES STORY](https://prtimes.jp/story/detail/orokwqS8Myr)
+- [TECHBLITZ Startup Interview](https://techblitz.com/startup-interview/idein/)
 
 ## Works & Activities
 ### Software Projects
@@ -98,3 +102,7 @@
   - Presentation: [Accelerating deep learning inference on Raspberry Pi](https://www.youtube.com/watch?v=10RyDvTj4hc)
 - [The New Context Conference](http://ncc.garage.co.jp/ja/)
   - 2016 Tokyo (presentation & panel session), 2017 Tokyo (presentation & panel session), 2018 Tokyo (panel session)
+- [EdgeTech+ 2022](https://www.jasa.or.jp/expo/2022/)
+- [JETRO × Hello Tomorrow Japan 「Deep Techで世界を目指せ」](https://www.youtube.com/watch?v=2qKPoBe8w20)
+  - Panel session
+- [ILS2023 Innovation Leaders Summit](https://ils.tokyo/event_2023/)
