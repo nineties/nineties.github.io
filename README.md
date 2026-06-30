@@ -41,6 +41,8 @@
 - [週刊BCN+](https://www.weeklybcn.com/journal/era/detail/20220519_190937.html)
 - [PR TIMES STORY](https://prtimes.jp/story/detail/orokwqS8Myr)
 - [TECHBLITZ Startup Interview](https://techblitz.com/startup-interview/idein/)
+- [ZUU online インタビュー](https://zuu.co.jp/media/stock/interview-idein)
+- [社長名鑑 業界特集インタビュー](https://shachomeikan.jp/industry_article/3215)
 
 ## Works & Activities
 ### Software Projects
@@ -106,3 +108,9 @@
 - [JETRO × Hello Tomorrow Japan 「Deep Techで世界を目指せ」](https://www.youtube.com/watch?v=2qKPoBe8w20)
   - Panel session
 - [ILS2023 Innovation Leaders Summit](https://ils.tokyo/event_2023/)
+- [SMART CITY REVERSE PITCH](https://www.idein.jp/ja/news/240126-smartcity-event)
+  - 対談登壇: スマートシティ領域のセクター横断協業事例
+- [MWC Barcelona 2025](https://www.idein.jp/ja/news/250128-kddi-mwc2025-ai-signage)
+  - KDDIスタートアップピッチ「Meet Japan's Next Unicorns!」登壇
+- [「製造業×AIで未来を創る」オンラインセミナー（さくらインターネット共催）](https://www.idein.jp/ja/news/sakura-internet-event-251001)
+  - Raspberry Pi × Actcastで現場発での工場DXを加速
