@@ -41,6 +41,10 @@
 - [週刊BCN+](https://www.weeklybcn.com/journal/era/detail/20220519_190937.html)
 - [PR TIMES STORY](https://prtimes.jp/story/detail/orokwqS8Myr)
 - [TECHBLITZ Startup Interview](https://techblitz.com/startup-interview/idein/)
+- [さくマガ 対談「AIが溶け込む社会への挑戦」](https://sakumaga.sakura.ad.jp/entry/idein/)
+- [ZUU online インタビュー](https://zuuonline.com/archives/293222)
+- [社長名鑑 インタビュー](https://shachomeikan.jp/industry_article/3215)
+- [INTLOOP Ventures 特別対談](https://www.intloop.com/intloopventures/interview/crosstalk1-3/)
 
 ## Works & Activities
 ### Software Projects
@@ -106,3 +110,5 @@
 - [JETRO × Hello Tomorrow Japan 「Deep Techで世界を目指せ」](https://www.youtube.com/watch?v=2qKPoBe8w20)
   - Panel session
 - [ILS2023 Innovation Leaders Summit](https://ils.tokyo/event_2023/)
+- [第21回 M2M・IoT研究会 専門部会セミナー](https://www.m2msg.org/?p=5981)
+  - Presentation (Japanese): マルチモーダルLLMのリアル空間向け活用の技術とビジネス応用
