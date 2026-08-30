@@ -1,14 +1,14 @@
-# **Koichi Nakamura (中村晃一)**
+# **中村晃一 (Koichi Nakamura)**
 
-## Titles
+## 肩書き
 
-- CEO&Founder of [Idein Inc.](https://idein.jp)
+- [株式会社Idein](https://idein.jp) 代表取締役
 
 [![](https://prtimes.jp/i/26271/3/resize/d26271-3-804117-0.jpg)](https://idein.jp)
 
-- Guest Professor at the Center for Co-Creation Strategy, Tohoku University.
+- 東北大学 共創戦略センター 客員教授
 
-## Accounts
+## アカウント
 
 - [Twitter](https://twitter.com/9_ties)
 - [Linkedin](https://www.linkedin.com/in/koichinakamura/)
@@ -19,17 +19,17 @@
 
 講演依頼・執筆依頼は koichi@idein.jp まで。
 
-## Career
+## 経歴
 
-- Born in 1984.
-- 2003- The University of Tokyo
-- 2010- Graduate School of Information Science and Technology, University of Tokyo. Dept. of Compute Science. (dropped out in 2015)
-  - My major was a theory of optimizing compiler for parallel computing
-- 2015.4 Founded Idein Inc.
-- 2016.3- Be a technical advisor of DG Lab
-- 2018.9- Selected as an Arm Innovator
+- 1984年 生まれ
+- 2003年 東京大学 入学
+- 2010年 東京大学大学院 情報理工学系研究科 コンピュータ科学専攻 (2015年 中退)
+  - 専門は並列計算向け最適化コンパイラの理論
+- 2015年4月 株式会社Idein 創業
+- 2016年3月 DG Lab 技術顧問
+- 2018年9月 Arm Innovator に選出
 
-## Interviews
+## インタビュー
 
 - [アマテラス CEOインタビュー](https://amater.as/article/interview/idein/)
 - [異能エンジニアの肖像](https://tech.nikkeibp.co.jp/atcl/nxt/column/18/00240/)
@@ -48,43 +48,42 @@
 - [社長名鑑 インタビュー](https://shachomeikan.jp/industry_article/3215)
 - [INTLOOP Ventures 特別対談](https://www.intloop.com/intloopventures/interview/crosstalk1-3/)
 
-## Works & Activities
-### Lectures & Presentations
+## 活動
+### 講演・発表
 
 - [SSII2019](https://confit.atlas.jp/guide/event/ssii2019/static/organized)
     - オーガナイズドセッション3 「深層学習の高速化」オーガナイザ
 - [AI/SUM 2019](https://aisum.jp/)
-    - Panel session: How Do AI Startups Solve Societal Issues in Japan
-    - Presentation: Edge Computing: The key Technology for Social Implementation of AI
+    - パネルセッション: How Do AI Startups Solve Societal Issues in Japan
+    - 講演: Edge Computing: The key Technology for Social Implementation of AI
 - [fpgax #11 ＋ TFUG ハード部：DNN専用ハードについて語る会](https://fpgax.connpass.com/event/115446/)
-  - Slide (Japanese): [Deep Learning推論を高速化するソフトウェア技術](https://speakerdeck.com/nineties/deep-learningtui-lun-wogao-su-hua-surusohutoueaji-shu)
+  - 資料: [Deep Learning推論を高速化するソフトウェア技術](https://speakerdeck.com/nineties/deep-learningtui-lun-wogao-su-hua-surusohutoueaji-shu)
 - Deloitte Tohmatsu Innovation Summit
-  - Panel session about "Augmented intelligence".
+  - 「Augmented intelligence」についてのパネルセッション
 - Deep Learning Lab/推論ナイト
-  - [Presentation (Japanese)](https://youtu.be/-t_9Qpd0gn8?t=8074)
-  - Slide (Japanese): [Ideinの紹介](https://speakerdeck.com/nineties/ideinfalseshao-jie-at-dllab-tui-lun-naito)
+  - [講演](https://youtu.be/-t_9Qpd0gn8?t=8074)
+  - 資料: [Ideinの紹介](https://speakerdeck.com/nineties/ideinfalseshao-jie-at-dllab-tui-lun-naito)
 - Deep Learning Acceleration勉強会
-  - Organizer
-  - Slide (Japanese): [Convolutionの数理とアルゴリズム](https://speakerdeck.com/nineties/convolutionfalseshu-li-toarugorizumu)
+  - オーガナイザ
+  - 資料: [Convolutionの数理とアルゴリズム](https://speakerdeck.com/nineties/convolutionfalseshu-li-toarugorizumu)
 - [Raspberry Pi Fields 2018](https://www.raspberrypi.org/raspberry-fields/)
-  - Presentation: [Accelerating deep learning inference on Raspberry Pi](https://www.youtube.com/watch?v=10RyDvTj4hc)
+  - 講演: [Accelerating deep learning inference on Raspberry Pi](https://www.youtube.com/watch?v=10RyDvTj4hc)
 - [The New Context Conference](http://ncc.garage.co.jp/ja/)
-  - 2016 Tokyo (presentation & panel session), 2017 Tokyo (presentation & panel session), 2018 Tokyo (panel session)
+  - 2016 東京 (講演・パネルセッション)、2017 東京 (講演・パネルセッション)、2018 東京 (パネルセッション)
 - [EdgeTech+ 2022](https://www.jasa.or.jp/expo/2022/)
 - [JETRO × Hello Tomorrow Japan 「Deep Techで世界を目指せ」](https://www.youtube.com/watch?v=2qKPoBe8w20)
-  - Panel session
+  - パネルセッション
 - [ILS2023 Innovation Leaders Summit](https://ils.tokyo/event_2023/)
 - [SMART CITY REVERSE PITCH](https://www.idein.jp/ja/news/240126-smartcity-event)
   - 対談登壇: スマートシティ領域のセクター横断協業事例
 - [第21回 M2M・IoT研究会 専門部会セミナー](https://www.m2msg.org/?p=5981)
-  - Presentation (Japanese): マルチモーダルLLMのリアル空間向け活用の技術とビジネス応用
+  - 講演: マルチモーダルLLMのリアル空間向け活用の技術とビジネス応用
 - [MWC Barcelona 2025](https://www.idein.jp/ja/news/250128-kddi-mwc2025-ai-signage)
   - KDDIスタートアップピッチ「Meet Japan's Next Unicorns!」登壇
 - [「製造業×AIで未来を創る」オンラインセミナー（さくらインターネット共催）](https://www.idein.jp/ja/news/sakura-internet-event-251001)
   - Raspberry Pi × Actcastで現場発での工場DXを加速
 
-### Math Lectures or Materials
-(Only in japanese)
+### 数学の講義・資料
 
 - 圏論勉強会: [資料](http://nineties.github.io/category-seminar/) [動画](https://www.youtube.com/playlist?list=PLzJWjr7AvxH37O6GPqx20NpF0HaSrndVc)
 - プログラマの為の数学勉強会: [資料](http://nineties.github.io/math-seminar/) [動画](https://www.youtube.com/playlist?list=PLzJWjr7AvxH0YYpi2uAH_QHLaSJQ5fZrR)
@@ -93,30 +92,30 @@
 - 多様体上での最適化問題: [資料](https://nineties.github.io/manifold-optimization)
 - トポス理論: [資料](https://nineties.github.io/topos-theory/overview/)
 
-### Software Projects
+### ソフトウェア
 
 - [Amber](https://github.com/nineties/amber)
   - [Creating a language using only assembly language](https://speakerdeck.com/nineties/creating-a-language-using-only-assembly-language)
   - [アセンブリ言語のみで言語処理系を作った話](https://speakerdeck.com/nineties/bootstrap)
 - [py-videocore](https://github.com/nineties/py-videocore)
-  - Python library for GPGPU on Raspberry Pi
+  - Raspberry Pi 上で GPGPU を行う Python ライブラリ
 - [PlanckForth](https://github.com/nineties/planckforth)
-  - Bootstrapping an Interpreter from Handwritten 1KB Binary
+  - 手書きの1KBのバイナリからインタプリタをブートストラップする
 
-### Hardware Projects
+### ハードウェア
 
-- Actbulb (Past project at Idein. Not for sale)
-  - Smart lightbulb with vision sensors
-  - Circuit design, PCB design, 3D CAD
+- Actbulb (Ideinでの過去のプロジェクト。非売品)
+  - 画像センサを内蔵したスマート電球
+  - 回路設計、基板設計、3D CAD
 
 ![](images/actbulb.png)
 
-- PiZero Cluster Board (Past project at Idein. Not for sale)
-  - Circuit design, PCB design 
+- PiZero Cluster Board (Ideinでの過去のプロジェクト。非売品)
+  - 回路設計、基板設計
 
 ![](images/pi0clusterboard.gif)
 
-- PiZero Drone HAT (Ongoing hobby project. Not for sale)
-  - Circuit design, PCB design, Mechanical design, flight controller
+- PiZero Drone HAT (個人プロジェクト、進行中。非売品)
+  - 回路設計、基板設計、機構設計、フライトコントローラ
 
 ![](images/drone.png)
