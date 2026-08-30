@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
-repository: nineties/aboutme
+repository: nineties/nineties.github.io
 
 title: About Me
 logo: https://pbs.twimg.com/profile_images/797490964/PICT0031__1__Cartoonizer_1_400x400.jpg
@@ -10,4 +10,7 @@ github:
     - is_user_page: true
     - is_project_page: false
 
-google_analytics: UA-129434657-1
+# GA4 の測定ID (G-XXXXXXXXXX) を入れると有効になる。
+# 旧 UA-129434657-1 は Universal Analytics で、2023-07-01 に計測が停止しているため外した。
+# スニペットは _includes/head-custom-google-analytics.html で gtag.js に差し替え済み。
+google_analytics: G-YKPYB3GBTG
