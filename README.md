@@ -41,8 +41,10 @@
 - [週刊BCN+](https://www.weeklybcn.com/journal/era/detail/20220519_190937.html)
 - [PR TIMES STORY](https://prtimes.jp/story/detail/orokwqS8Myr)
 - [TECHBLITZ Startup Interview](https://techblitz.com/startup-interview/idein/)
-- [ZUU online インタビュー](https://zuu.co.jp/media/stock/interview-idein)
-- [社長名鑑 業界特集インタビュー](https://shachomeikan.jp/industry_article/3215)
+- [さくマガ 対談「AIが溶け込む社会への挑戦」](https://sakumaga.sakura.ad.jp/entry/idein/)
+- [ZUU online インタビュー](https://zuuonline.com/archives/293222)
+- [社長名鑑 インタビュー](https://shachomeikan.jp/industry_article/3215)
+- [INTLOOP Ventures 特別対談](https://www.intloop.com/intloopventures/interview/crosstalk1-3/)
 
 ## Works & Activities
 ### Software Projects
@@ -110,6 +112,8 @@
 - [ILS2023 Innovation Leaders Summit](https://ils.tokyo/event_2023/)
 - [SMART CITY REVERSE PITCH](https://www.idein.jp/ja/news/240126-smartcity-event)
   - 対談登壇: スマートシティ領域のセクター横断協業事例
+- [第21回 M2M・IoT研究会 専門部会セミナー](https://www.m2msg.org/?p=5981)
+  - Presentation (Japanese): マルチモーダルLLMのリアル空間向け活用の技術とビジネス応用
 - [MWC Barcelona 2025](https://www.idein.jp/ja/news/250128-kddi-mwc2025-ai-signage)
   - KDDIスタートアップピッチ「Meet Japan's Next Unicorns!」登壇
 - [「製造業×AIで未来を創る」オンラインセミナー（さくらインターネット共催）](https://www.idein.jp/ja/news/sakura-internet-event-251001)
