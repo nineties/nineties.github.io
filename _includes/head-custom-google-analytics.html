@@ -1,0 +1,19 @@
+{%- comment -%}
+  テーマ (pages-themes/minimal) 同名ファイルの上書き。
+
+  テーマ側は Universal Analytics の analytics.js スニペットを出すが、
+  UA は 2023-07-01 に新規データの処理を停止しており、G- で始まる GA4 の
+  測定IDを入れても動かない。ここを GA4 (gtag.js) に差し替えている。
+
+  _config.yml の google_analytics に測定ID (G-XXXXXXXXXX) を入れると有効になる。
+  空のあいだは何も出力しない。
+{%- endcomment -%}
+{% if site.google_analytics %}
+  <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', '{{ site.google_analytics }}');
+  </script>
+{% endif %}
