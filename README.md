@@ -1,7 +1,5 @@
 # **中村晃一 (Koichi Nakamura)**
 
-## 肩書き
-
 - [Idein株式会社](https://idein.jp) 代表取締役
 
 [![](https://prtimes.jp/i/26271/3/resize/d26271-3-804117-0.jpg)](https://idein.jp)
