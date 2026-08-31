@@ -16,4 +16,20 @@
     gtag('js', new Date());
     gtag('config', '{{ site.google_analytics }}');
   </script>
+
+  <script>
+    // メールアドレスのクリックを GA4 のイベントとして送る。
+    // GA4 の拡張計測の「離脱クリック」は http(s) の外部サイト向けリンクが対象で、
+    // mailto: は拾わない。数えたいならこうして自前でイベントを送る必要がある。
+    document.addEventListener('DOMContentLoaded', function () {
+      document.querySelectorAll('a[href^="mailto:"]').forEach(function (a) {
+        a.addEventListener('click', function () {
+          gtag('event', 'mail_click', {
+            link_url: a.href,
+            link_text: (a.textContent || '').trim()
+          });
+        });
+      });
+    });
+  </script>
 {% endif %}

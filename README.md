@@ -15,7 +15,7 @@
 - [Speakerdeck](https://speakerdeck.com/nineties/)
 - [Qiita](https://qiita.com/9_ties)
 
-講演依頼・執筆依頼は koichi@idein.jp まで。
+講演依頼・執筆依頼は [koichi@idein.jp](mailto:koichi@idein.jp) まで。
 
 ## 経歴
 
