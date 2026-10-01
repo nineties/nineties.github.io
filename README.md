@@ -45,6 +45,8 @@
 - [ZUU online インタビュー](https://zuuonline.com/archives/293222)
 - [社長名鑑 インタビュー](https://shachomeikan.jp/industry_article/3215)
 - [INTLOOP Ventures 特別対談](https://www.intloop.com/intloopventures/interview/crosstalk1-3/)
+- [ZUU online インタビュー「エッジAI領域でプラットフォームを構築してグローバル展開を目指す」](https://zuu.co.jp/media/stock/interview-idein)
+- [AMBL COLORS 対談](https://colors.ambl.co.jp/ideinandambl-0318/)
 
 ## 活動
 ### 講演・発表
@@ -80,6 +82,10 @@
   - KDDIスタートアップピッチ「Meet Japan's Next Unicorns!」登壇
 - [「製造業×AIで未来を創る」オンラインセミナー（さくらインターネット共催）](https://www.idein.jp/ja/news/sakura-internet-event-251001)
   - Raspberry Pi × Actcastで現場発での工場DXを加速
+- [ブライダル産業フェア2025](https://prtimes.jp/main/html/rd/p/000000097.000026271.html)
+  - 講演: 大手コンビニ、駅などでも次々導入　最新AIのブライダル活用
+- [エッジAIイニシアチブ 2026](https://corp.itmedia.co.jp/pr/releases/2026/06/11/edgeai-2/)
+  - 特別講演: エッジAI活用の最前線 ―Actcastが実現する現場変革と価値創出―
 
 ### 数学の講義・資料
 
