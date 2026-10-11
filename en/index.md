@@ -40,6 +40,43 @@ For speaking and writing requests, please contact koichi@idein.jp.
 - March 2016 Technical Advisor, DG Lab
 - September 2018 Selected as an Arm Innovator
 
+## Math lectures and materials
+
+- Category theory seminar: [Slides](http://nineties.github.io/category-seminar/) [Videos](https://www.youtube.com/playlist?list=PLzJWjr7AvxH37O6GPqx20NpF0HaSrndVc)
+- Mathematics seminar for programmers: [Slides](http://nineties.github.io/math-seminar/) [Videos](https://www.youtube.com/playlist?list=PLzJWjr7AvxH0YYpi2uAH_QHLaSJQ5fZrR)
+- Pattern Recognition and Machine Learning seminar: [Slides](http://nineties.github.io/prml-seminar/) [Videos](https://www.youtube.com/playlist?list=PLZUl2daVfjB2M2nzTBXWx5z_IA9u3Ob6x)
+- Natural language processing with machine learning seminar: [Slides](http://nineties.github.io/NLP-seminar/) [Videos](https://www.youtube.com/playlist?list=PLl1oX4Yc8CJail3kBuQZJye6rKpS7hoHw)
+- Optimization problems on manifolds: [Slides](https://nineties.github.io/manifold-optimization)
+- Topos theory: [Slides](https://nineties.github.io/topos-theory/overview/)
+
+## Software
+
+- [Amber](https://github.com/nineties/amber)
+  - [Creating a language using only assembly language](https://speakerdeck.com/nineties/creating-a-language-using-only-assembly-language)
+  - [How I built a language implementation using only assembly language (Japanese)](https://speakerdeck.com/nineties/bootstrap)
+- [py-videocore](https://github.com/nineties/py-videocore)
+  - A Python library for GPGPU on the Raspberry Pi
+- [PlanckForth](https://github.com/nineties/planckforth)
+  - Bootstraps an interpreter from a hand-written 1 KB binary
+
+## Hardware
+
+- Actbulb (a past project at Idein; not for sale)
+  - A smart light bulb with a built-in image sensor
+  - Circuit design, PCB design, 3D CAD
+
+![Actbulb](/images/actbulb.png)
+
+- PiZero Cluster Board (a past project at Idein; not for sale)
+  - Circuit design, PCB design
+
+![PiZero Cluster Board](/images/pi0clusterboard.gif)
+
+- PiZero Drone HAT (personal project, in progress; not for sale)
+  - Circuit design, PCB design, mechanical design, flight controller
+
+![PiZero Drone HAT](/images/drone.png)
+
 ## Interviews
 
 - [Amateras CEO Interview](https://amater.as/article/interview/idein/)
@@ -62,6 +99,7 @@ For speaking and writing requests, please contact koichi@idein.jp.
 - [AMBL COLORS dialogue](https://colors.ambl.co.jp/ideinandambl-0318/)
 
 ## Activities
+
 ### Talks and presentations
 
 - [SSII2019](https://confit.atlas.jp/guide/event/ssii2019/static/organized)
@@ -99,40 +137,3 @@ For speaking and writing requests, please contact koichi@idein.jp.
   - Talk: The latest AI, now being adopted by major convenience stores and train stations, applied to weddings
 - [Edge AI Initiative 2026](https://corp.itmedia.co.jp/pr/releases/2026/06/11/edgeai-2/)
   - Special talk: The front line of edge AI: on-site transformation and value creation with Actcast
-
-### Math lectures and materials
-
-- Category theory seminar: [Slides](http://nineties.github.io/category-seminar/) [Videos](https://www.youtube.com/playlist?list=PLzJWjr7AvxH37O6GPqx20NpF0HaSrndVc)
-- Mathematics seminar for programmers: [Slides](http://nineties.github.io/math-seminar/) [Videos](https://www.youtube.com/playlist?list=PLzJWjr7AvxH0YYpi2uAH_QHLaSJQ5fZrR)
-- Pattern Recognition and Machine Learning seminar: [Slides](http://nineties.github.io/prml-seminar/) [Videos](https://www.youtube.com/playlist?list=PLZUl2daVfjB2M2nzTBXWx5z_IA9u3Ob6x)
-- Natural language processing with machine learning seminar: [Slides](http://nineties.github.io/NLP-seminar/) [Videos](https://www.youtube.com/playlist?list=PLl1oX4Yc8CJail3kBuQZJye6rKpS7hoHw)
-- Optimization problems on manifolds: [Slides](https://nineties.github.io/manifold-optimization)
-- Topos theory: [Slides](https://nineties.github.io/topos-theory/overview/)
-
-### Software
-
-- [Amber](https://github.com/nineties/amber)
-  - [Creating a language using only assembly language](https://speakerdeck.com/nineties/creating-a-language-using-only-assembly-language)
-  - [How I built a language implementation using only assembly language (Japanese)](https://speakerdeck.com/nineties/bootstrap)
-- [py-videocore](https://github.com/nineties/py-videocore)
-  - A Python library for GPGPU on the Raspberry Pi
-- [PlanckForth](https://github.com/nineties/planckforth)
-  - Bootstraps an interpreter from a hand-written 1 KB binary
-
-### Hardware
-
-- Actbulb (a past project at Idein; not for sale)
-  - A smart light bulb with a built-in image sensor
-  - Circuit design, PCB design, 3D CAD
-
-![Actbulb](/images/actbulb.png)
-
-- PiZero Cluster Board (a past project at Idein; not for sale)
-  - Circuit design, PCB design
-
-![PiZero Cluster Board](/images/pi0clusterboard.gif)
-
-- PiZero Drone HAT (personal project, in progress; not for sale)
-  - Circuit design, PCB design, mechanical design, flight controller
-
-![PiZero Drone HAT](/images/drone.png)

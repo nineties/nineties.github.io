@@ -27,6 +27,43 @@
 - 2016年3月 DG Lab 技術顧問
 - 2018年9月 Arm Innovator に選出
 
+## 数学の講義・資料
+
+- 圏論勉強会: [資料](http://nineties.github.io/category-seminar/) [動画](https://www.youtube.com/playlist?list=PLzJWjr7AvxH37O6GPqx20NpF0HaSrndVc)
+- プログラマの為の数学勉強会: [資料](http://nineties.github.io/math-seminar/) [動画](https://www.youtube.com/playlist?list=PLzJWjr7AvxH0YYpi2uAH_QHLaSJQ5fZrR)
+- パターン認識と機械学習勉強会: [資料](http://nineties.github.io/prml-seminar/) [動画](https://www.youtube.com/playlist?list=PLZUl2daVfjB2M2nzTBXWx5z_IA9u3Ob6x)
+- 機械学習に基づく自然言語処理勉強会: [資料](http://nineties.github.io/NLP-seminar/) [動画](https://www.youtube.com/playlist?list=PLl1oX4Yc8CJail3kBuQZJye6rKpS7hoHw)
+- 多様体上での最適化問題: [資料](https://nineties.github.io/manifold-optimization)
+- トポス理論: [資料](https://nineties.github.io/topos-theory/overview/)
+
+## ソフトウェア
+
+- [Amber](https://github.com/nineties/amber)
+  - [Creating a language using only assembly language](https://speakerdeck.com/nineties/creating-a-language-using-only-assembly-language)
+  - [アセンブリ言語のみで言語処理系を作った話](https://speakerdeck.com/nineties/bootstrap)
+- [py-videocore](https://github.com/nineties/py-videocore)
+  - Raspberry Pi 上で GPGPU を行う Python ライブラリ
+- [PlanckForth](https://github.com/nineties/planckforth)
+  - 手書きの1KBのバイナリからインタプリタをブートストラップする
+
+## ハードウェア
+
+- Actbulb (Ideinでの過去のプロジェクト。非売品)
+  - 画像センサを内蔵したスマート電球
+  - 回路設計、基板設計、3D CAD
+
+![Actbulb](images/actbulb.png)
+
+- PiZero Cluster Board (Ideinでの過去のプロジェクト。非売品)
+  - 回路設計、基板設計
+
+![PiZero Cluster Board](images/pi0clusterboard.gif)
+
+- PiZero Drone HAT (個人プロジェクト、進行中。非売品)
+  - 回路設計、基板設計、機構設計、フライトコントローラ
+
+![PiZero Drone HAT](images/drone.png)
+
 ## インタビュー
 
 - [アマテラス CEOインタビュー](https://amater.as/article/interview/idein/)
@@ -49,6 +86,7 @@
 - [AMBL COLORS 対談](https://colors.ambl.co.jp/ideinandambl-0318/)
 
 ## 活動
+
 ### 講演・発表
 
 - [SSII2019](https://confit.atlas.jp/guide/event/ssii2019/static/organized)
@@ -86,40 +124,3 @@
   - 講演: 大手コンビニ、駅などでも次々導入　最新AIのブライダル活用
 - [エッジAIイニシアチブ 2026](https://corp.itmedia.co.jp/pr/releases/2026/06/11/edgeai-2/)
   - 特別講演: エッジAI活用の最前線 ―Actcastが実現する現場変革と価値創出―
-
-### 数学の講義・資料
-
-- 圏論勉強会: [資料](http://nineties.github.io/category-seminar/) [動画](https://www.youtube.com/playlist?list=PLzJWjr7AvxH37O6GPqx20NpF0HaSrndVc)
-- プログラマの為の数学勉強会: [資料](http://nineties.github.io/math-seminar/) [動画](https://www.youtube.com/playlist?list=PLzJWjr7AvxH0YYpi2uAH_QHLaSJQ5fZrR)
-- パターン認識と機械学習勉強会: [資料](http://nineties.github.io/prml-seminar/) [動画](https://www.youtube.com/playlist?list=PLZUl2daVfjB2M2nzTBXWx5z_IA9u3Ob6x)
-- 機械学習に基づく自然言語処理勉強会: [資料](http://nineties.github.io/NLP-seminar/) [動画](https://www.youtube.com/playlist?list=PLl1oX4Yc8CJail3kBuQZJye6rKpS7hoHw)
-- 多様体上での最適化問題: [資料](https://nineties.github.io/manifold-optimization)
-- トポス理論: [資料](https://nineties.github.io/topos-theory/overview/)
-
-### ソフトウェア
-
-- [Amber](https://github.com/nineties/amber)
-  - [Creating a language using only assembly language](https://speakerdeck.com/nineties/creating-a-language-using-only-assembly-language)
-  - [アセンブリ言語のみで言語処理系を作った話](https://speakerdeck.com/nineties/bootstrap)
-- [py-videocore](https://github.com/nineties/py-videocore)
-  - Raspberry Pi 上で GPGPU を行う Python ライブラリ
-- [PlanckForth](https://github.com/nineties/planckforth)
-  - 手書きの1KBのバイナリからインタプリタをブートストラップする
-
-### ハードウェア
-
-- Actbulb (Ideinでの過去のプロジェクト。非売品)
-  - 画像センサを内蔵したスマート電球
-  - 回路設計、基板設計、3D CAD
-
-![Actbulb](images/actbulb.png)
-
-- PiZero Cluster Board (Ideinでの過去のプロジェクト。非売品)
-  - 回路設計、基板設計
-
-![PiZero Cluster Board](images/pi0clusterboard.gif)
-
-- PiZero Drone HAT (個人プロジェクト、進行中。非売品)
-  - 回路設計、基板設計、機構設計、フライトコントローラ
-
-![PiZero Drone HAT](images/drone.png)
