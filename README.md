@@ -74,13 +74,13 @@
 - [JETRO × Hello Tomorrow Japan 「Deep Techで世界を目指せ」](https://www.youtube.com/watch?v=2qKPoBe8w20)
   - パネルセッション
 - [ILS2023 Innovation Leaders Summit](https://ils.tokyo/event_2023/)
-- [SMART CITY REVERSE PITCH](https://www.idein.jp/ja/news/240126-smartcity-event)
+- [SMART CITY REVERSE PITCH](https://idein.jp/ja/news/240126-smartcity-event/)
   - 対談登壇: スマートシティ領域のセクター横断協業事例
 - [第21回 M2M・IoT研究会 専門部会セミナー](https://www.m2msg.org/?p=5981)
   - 講演: マルチモーダルLLMのリアル空間向け活用の技術とビジネス応用
-- [MWC Barcelona 2025](https://www.idein.jp/ja/news/250128-kddi-mwc2025-ai-signage)
+- [MWC Barcelona 2025](https://idein.jp/ja/news/250128-kddi-mwc2025-ai-signage)
   - KDDIスタートアップピッチ「Meet Japan's Next Unicorns!」登壇
-- [「製造業×AIで未来を創る」オンラインセミナー（さくらインターネット共催）](https://www.idein.jp/ja/news/sakura-internet-event-251001)
+- [「製造業×AIで未来を創る」オンラインセミナー（さくらインターネット共催）](https://idein.jp/ja/news/sakura-internet-event-251001/)
   - Raspberry Pi × Actcastで現場発での工場DXを加速
 - [ブライダル産業フェア2025](https://prtimes.jp/main/html/rd/p/000000097.000026271.html)
   - 講演: 大手コンビニ、駅などでも次々導入　最新AIのブライダル活用

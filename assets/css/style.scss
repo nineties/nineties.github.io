@@ -76,6 +76,14 @@ header {
   position: sticky;
   top: 64px;
 
+  // 日本語 / English の切り替え
+  .lang-switch {
+    margin: 0 0 12px;
+    font-size: 0.82rem;
+    line-height: 1.4;
+    a { color: var(--accent); }
+  }
+
   .site-title {
     margin: 0 0 20px;
     font-size: 0.9rem;
@@ -117,6 +125,7 @@ section {
     font-weight: 600;
     font-size: 2.25rem;
     line-height: 1.35;
+    word-break: keep-all;   // 名前の途中で折り返さない
     letter-spacing: 0.02em;
   }
 
@@ -196,7 +205,8 @@ section > h1 + ul,
 section > h1 ~ p + ul:not(h2 ~ ul) { margin-bottom: 8px; }
 
 // 「アカウント」のリンク一覧は横に並べる
-#アカウント + ul {
+#アカウント + ul,
+#accounts + ul {
   display: flex;
   flex-wrap: wrap;
   gap: 4px 22px;
@@ -226,7 +236,8 @@ footer {
   }
 
   header {
-    position: static;
+    position: relative;   // 切り替えリンクの基準。sticky の top は打ち消す
+    top: auto;
     display: grid;
     grid-template-columns: 64px minmax(0, 1fr);
     column-gap: 14px;
@@ -241,6 +252,7 @@ footer {
       border-radius: 50%;
     }
     .site-title { grid-column: 2; grid-row: 1; margin: 0; align-self: end; }
+    .lang-switch { position: absolute; top: 0; right: 0; margin: 0; }
     p { grid-column: 2; grid-row: 2; margin: 2px 0 0; align-self: start; }
   }
 

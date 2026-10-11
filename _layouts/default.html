@@ -1,17 +1,24 @@
 <!DOCTYPE html>
 {%- comment -%}
-  テーマ (pages-themes/minimal 0.2.0) の default.html の上書き。変更点は2つだけ:
+  テーマ (pages-themes/minimal 0.2.0) の default.html の上書き。変更点:
   - サイト名を h1 から p に（ページ内の h1 を本文の名前1つにする）
   - 写真の alt を "Logo" から名前に
   - 本文の画像を遅延読み込みに（作品画像が数MB〜20MBあり、先頭の表示を待たせるため）
+  - 日英の2ページ対応: lang・サイト名・title をページの front matter (lang / site_title) から取り、
+    上部に言語の切り替えリンクを出す
 {%- endcomment -%}
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang="{{ page.lang | default: site.lang | default: "en-US" }}">
   <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
+{%- if page.site_title %}
+{% seo title=false %}
+    <title>{{ page.title }} | {{ page.site_title }}</title>
+{%- else %}
 {% seo %}
+{%- endif %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
@@ -21,10 +28,16 @@
   <body>
     <div class="wrapper">
       <header>
+        {%- if page.lang == "en" %}
+        <p class="lang-switch"><a href="{{ "/" | absolute_url }}" hreflang="ja" lang="ja">日本語</a></p>
+        <p class="site-title"><a href="{{ "/en/" | absolute_url }}">{{ page.site_title }}</a></p>
+        {%- else %}
+        <p class="lang-switch"><a href="{{ "/en/" | absolute_url }}" hreflang="en" lang="en">English</a></p>
         <p class="site-title"><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></p>
+        {%- endif %}
 
         {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="{{ site.author.name | default: 'Logo' }}" />
+          <img src="{{site.logo | relative_url}}" alt="{{ page.author_name | default: site.author.name | default: 'Logo' }}" />
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>

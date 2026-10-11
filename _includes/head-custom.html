@@ -17,6 +17,13 @@
 
 <link rel="icon" href="{{ site.logo }}">
 
+{%- comment -%} 日本語版 (/) と英語版 (/en/) を互いに指す {%- endcomment -%}
+{% if page.url == "/" or page.url == "/en/" %}
+<link rel="alternate" hreflang="ja" href="{{ '/' | absolute_url }}">
+<link rel="alternate" hreflang="en" href="{{ '/en/' | absolute_url }}">
+<link rel="alternate" hreflang="x-default" href="{{ '/' | absolute_url }}">
+{% endif %}
+
 {%- comment -%}
   人物の構造化データ (schema.org Person)。値はページ本文の肩書き・経歴・アカウントから取っている。
   本文を直したらここも合わせる。
@@ -34,6 +41,30 @@
   "worksFor": { "@type": "Organization", "name": "Idein株式会社", "url": "https://idein.jp" },
   "affiliation": { "@type": "CollegeOrUniversity", "name": "東北大学 共創戦略センター" },
   "alumniOf": { "@type": "CollegeOrUniversity", "name": "東京大学" },
+  "sameAs": [
+    "https://twitter.com/9_ties",
+    "https://www.linkedin.com/in/koichinakamura/",
+    "https://www.facebook.com/koichi.nak",
+    "https://github.com/nineties",
+    "https://speakerdeck.com/nineties/",
+    "https://qiita.com/9_ties"
+  ]
+}
+</script>
+{% endif %}
+{% if page.url == "/en/" %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Koichi Nakamura",
+  "alternateName": "中村晃一",
+  "url": "{{ '/en/' | absolute_url }}",
+  "image": "{{ site.logo }}",
+  "jobTitle": "CEO",
+  "worksFor": { "@type": "Organization", "name": "Idein Inc.", "url": "https://idein.jp" },
+  "affiliation": { "@type": "CollegeOrUniversity", "name": "Center for Co-Creation Strategy, Tohoku University" },
+  "alumniOf": { "@type": "CollegeOrUniversity", "name": "The University of Tokyo" },
   "sameAs": [
     "https://twitter.com/9_ties",
     "https://www.linkedin.com/in/koichinakamura/",
