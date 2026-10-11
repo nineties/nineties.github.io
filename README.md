@@ -2,7 +2,7 @@
 
 - [Idein株式会社](https://idein.jp) 代表取締役
 
-[![](https://prtimes.jp/i/26271/3/resize/d26271-3-804117-0.jpg)](https://idein.jp)
+[![Idein Inc.](https://prtimes.jp/i/26271/3/resize/d26271-3-804117-0.jpg)](https://idein.jp)
 
 - 東北大学 共創戦略センター 客員教授
 
@@ -112,14 +112,14 @@
   - 画像センサを内蔵したスマート電球
   - 回路設計、基板設計、3D CAD
 
-![](images/actbulb.png)
+![Actbulb](images/actbulb.png)
 
 - PiZero Cluster Board (Ideinでの過去のプロジェクト。非売品)
   - 回路設計、基板設計
 
-![](images/pi0clusterboard.gif)
+![PiZero Cluster Board](images/pi0clusterboard.gif)
 
 - PiZero Drone HAT (個人プロジェクト、進行中。非売品)
   - 回路設計、基板設計、機構設計、フライトコントローラ
 
-![](images/drone.png)
+![PiZero Drone HAT](images/drone.png)

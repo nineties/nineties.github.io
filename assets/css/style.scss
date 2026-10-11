@@ -76,7 +76,7 @@ header {
   position: sticky;
   top: 64px;
 
-  h1 {
+  .site-title {
     margin: 0 0 20px;
     font-size: 0.9rem;
     font-weight: 500;
@@ -240,7 +240,7 @@ footer {
       height: 64px;
       border-radius: 50%;
     }
-    h1 { grid-column: 2; grid-row: 1; margin: 0; align-self: end; }
+    .site-title { grid-column: 2; grid-row: 1; margin: 0; align-self: end; }
     p { grid-column: 2; grid-row: 2; margin: 2px 0 0; align-self: start; }
   }
 

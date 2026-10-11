@@ -1,5 +1,6 @@
 theme: jekyll-theme-minimal
 repository: nineties/nineties.github.io
+url: https://nineties.github.io
 
 title: プロフィール
 lang: ja
@@ -15,3 +16,21 @@ github:
 # 旧 UA-129434657-1 は Universal Analytics で、2023-07-01 に計測が停止しているため外した。
 # スニペットは _includes/head-custom-google-analytics.html で gtag.js に差し替え済み。
 google_analytics: G-YKPYB3GBTG
+
+# ---- SEO ----
+# 検索結果・SNS の共有表示用。文はすべてページ内の経歴・肩書きから取っている。
+locale: ja_JP
+author:
+  name: 中村晃一
+  twitter: 9_ties
+twitter:
+  username: 9_ties
+  card: summary   # 写真が正方形なので大きい画像の型にしない
+plugins:
+  - jekyll-sitemap   # sitemap.xml と robots.txt を生成
+defaults:
+  - scope:
+      path: "README.md"
+    values:
+      description: "中村晃一 (Koichi Nakamura)。Idein株式会社 代表取締役、東北大学 共創戦略センター 客員教授。専門は並列計算向け最適化コンパイラの理論。"
+      image: https://pbs.twimg.com/profile_images/797490964/PICT0031__1__Cartoonizer_1_400x400.jpg
