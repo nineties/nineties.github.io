@@ -2,10 +2,6 @@
 
 - [Idein株式会社](https://idein.jp) 代表取締役
 
-[![Idein Inc.](https://prtimes.jp/i/26271/3/resize/d26271-3-804117-0.jpg)](https://idein.jp)
-
-- 東北大学 共創戦略センター 客員教授
-
 ## アカウント
 
 - [Twitter](https://twitter.com/9_ties)
@@ -26,6 +22,7 @@
 - 2015年4月 Idein株式会社 創業
 - 2016年3月 DG Lab 技術顧問
 - 2018年9月 Arm Innovator に選出
+- 2024年7月 東北大学 共創戦略センター 客員教授
 
 ## 数学の講義・資料
 

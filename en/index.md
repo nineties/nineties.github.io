@@ -15,10 +15,6 @@ image: https://pbs.twimg.com/profile_images/797490964/PICT0031__1__Cartoonizer_1
 
 - CEO, [Idein Inc.](https://idein.jp/en/)
 
-[![Idein Inc.](https://prtimes.jp/i/26271/3/resize/d26271-3-804117-0.jpg)](https://idein.jp/en/)
-
-- Visiting Professor, Center for Co-Creation Strategy, Tohoku University
-
 ## Accounts
 
 - [Twitter](https://twitter.com/9_ties)
@@ -39,6 +35,7 @@ For speaking and writing requests, please contact koichi@idein.jp.
 - April 2015 Founded Idein Inc.
 - March 2016 Technical Advisor, DG Lab
 - September 2018 Selected as an Arm Innovator
+- July 2024 Visiting Professor, Center for Co-Creation Strategy, Tohoku University
 
 ## Math lectures and materials
 
