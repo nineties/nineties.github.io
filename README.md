@@ -4,12 +4,11 @@
 
 ## アカウント
 
-- [Twitter](https://twitter.com/9_ties)
+- [X](https://x.com/9_ties)
+- [Github](https://github.com/nineties)
+- [Qiita](https://qiita.com/9_ties)
 - [Linkedin](https://www.linkedin.com/in/koichinakamura/)
 - [Facebook](https://www.facebook.com/koichi.nak)
-- [Github](https://github.com/nineties)
-- [Speakerdeck](https://speakerdeck.com/nineties/)
-- [Qiita](https://qiita.com/9_ties)
 
 講演依頼・執筆依頼は koichi@idein.jp まで。
 

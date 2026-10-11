@@ -17,12 +17,11 @@ image: https://pbs.twimg.com/profile_images/797490964/PICT0031__1__Cartoonizer_1
 
 ## Accounts
 
-- [Twitter](https://twitter.com/9_ties)
+- [X](https://x.com/9_ties)
+- [Github](https://github.com/nineties)
+- [Qiita](https://qiita.com/9_ties)
 - [Linkedin](https://www.linkedin.com/in/koichinakamura/)
 - [Facebook](https://www.facebook.com/koichi.nak)
-- [Github](https://github.com/nineties)
-- [Speakerdeck](https://speakerdeck.com/nineties/)
-- [Qiita](https://qiita.com/9_ties)
 
 For speaking and writing requests, please contact koichi@idein.jp.
 
