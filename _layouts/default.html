@@ -3,6 +3,7 @@
   テーマ (pages-themes/minimal 0.2.0) の default.html の上書き。変更点は2つだけ:
   - サイト名を h1 から p に（ページ内の h1 を本文の名前1つにする）
   - 写真の alt を "Logo" から名前に
+  - 本文の画像を遅延読み込みに（作品画像が数MB〜20MBあり、先頭の表示を待たせるため）
 {%- endcomment -%}
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
@@ -46,7 +47,7 @@
       </header>
       <section>
 
-      {{ content }}
+      {{ content | replace: '<img src="/images/', '<img loading="lazy" decoding="async" src="/images/' }}
 
       </section>
       <footer>
